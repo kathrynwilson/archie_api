@@ -1,0 +1,14 @@
+{
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0A2A64",
+    "titleBar.activeBackground": "#0D3B8D",
+    "titleBar.activeForeground": "#FAFBFE"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}

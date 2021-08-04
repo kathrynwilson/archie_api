@@ -1,0 +1,7 @@
+node_modules
+.env
+schema/archie.graphql
+sessions
+session-store
+public
+./VSCodeCounter
